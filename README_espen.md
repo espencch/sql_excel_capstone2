@@ -2,8 +2,7 @@
 ##An analysis of singapote convicted penal population
 Source : data.gov.sg 
 [Dataset Link](https://github.com/espencch/sql_excel_capstone2)
-![Screenshot of dashboard]()
-[![name](link to image on GH)](link to your URL)
+![Screenshot of dashboard](https://photos.google.com/search/_tra_/photo/AF1QipMnK7_eYjbQXiW4ke9GzQhCsXB0HcwkCoASRNWi)
 
 Description:
 The penal population in Singapore refers to the number of individuals incarcerated in prisons and other correctional facilities in the country. Here is an overview of the history of the penal population in Singapore from 2012 to 2020:
