@@ -1,0 +1,487 @@
+year,population_by_age_group,population_by_main_offence_group,number_of_population
+2012,Below 21,Crimes Against Person,33
+2012,Below 21,Commercial Crimes,69
+2012,Below 21,Crimes Against Public Order,42
+2012,Below 21,Customs Offences,3
+2012,Below 21,Drug Offences,46
+2012,Below 21,Immigration Offences,3
+2012,Below 21,Other Offences,3
+2012,Below 21,Property Crimes,143
+2012,Below 21,Traffic Offences,2
+2012,21-30 yrs,Crimes Against Person,139
+2012,21-30 yrs,Commercial Crimes,232
+2012,21-30 yrs,Crimes Against Public Order,61
+2012,21-30 yrs,Customs Offences,59
+2012,21-30 yrs,Drug Offences,670
+2012,21-30 yrs,Immigration Offences,67
+2012,21-30 yrs,Other Offences,89
+2012,21-30 yrs,Property Crimes,343
+2012,21-30 yrs,Traffic Offences,13
+2012,>30-40 yrs,Crimes Against Person,121
+2012,>30-40 yrs,Commercial Crimes,223
+2012,>30-40 yrs,Crimes Against Public Order,27
+2012,>30-40 yrs,Customs Offences,59
+2012,>30-40 yrs,Drug Offences,1562
+2012,>30-40 yrs,Immigration Offences,93
+2012,>30-40 yrs,Other Offences,51
+2012,>30-40 yrs,Property Crimes,359
+2012,>30-40 yrs,Traffic Offences,20
+2012,>40-50 yrs,Crimes Against Person,132
+2012,>40-50 yrs,Commercial Crimes,143
+2012,>40-50 yrs,Crimes Against Public Order,23
+2012,>40-50 yrs,Customs Offences,44
+2012,>40-50 yrs,Drug Offences,2308
+2012,>40-50 yrs,Immigration Offences,84
+2012,>40-50 yrs,Other Offences,28
+2012,>40-50 yrs,Property Crimes,324
+2012,>40-50 yrs,Traffic Offences,15
+2012,>50-60 yrs,Crimes Against Person,87
+2012,>50-60 yrs,Commercial Crimes,58
+2012,>50-60 yrs,Crimes Against Public Order,16
+2012,>50-60 yrs,Customs Offences,35
+2012,>50-60 yrs,Drug Offences,1504
+2012,>50-60 yrs,Immigration Offences,39
+2012,>50-60 yrs,Other Offences,16
+2012,>50-60 yrs,Property Crimes,197
+2012,>50-60 yrs,Traffic Offences,4
+2012,60 and above,Crimes Against Person,31
+2012,60 and above,Commercial Crimes,17
+2012,60 and above,Crimes Against Public Order,2
+2012,60 and above,Customs Offences,11
+2012,60 and above,Drug Offences,197
+2012,60 and above,Immigration Offences,9
+2012,60 and above,Other Offences,4
+2012,60 and above,Property Crimes,40
+2012,60 and above,Traffic Offences,1
+2013,Below 21,Crimes Against Person,31
+2013,Below 21,Commercial Crimes,59
+2013,Below 21,Crimes Against Public Order,58
+2013,Below 21,Customs Offences,4
+2013,Below 21,Drug Offences,28
+2013,Below 21,Immigration Offences,5
+2013,Below 21,Other Offences,9
+2013,Below 21,Property Crimes,113
+2013,Below 21,Traffic Offences,2
+2013,21-30 yrs,Crimes Against Person,158
+2013,21-30 yrs,Commercial Crimes,215
+2013,21-30 yrs,Crimes Against Public Order,62
+2013,21-30 yrs,Customs Offences,59
+2013,21-30 yrs,Drug Offences,610
+2013,21-30 yrs,Immigration Offences,47
+2013,21-30 yrs,Other Offences,95
+2013,21-30 yrs,Property Crimes,329
+2013,21-30 yrs,Traffic Offences,15
+2013,>30-40 yrs,Crimes Against Person,131
+2013,>30-40 yrs,Commercial Crimes,207
+2013,>30-40 yrs,Crimes Against Public Order,18
+2013,>30-40 yrs,Customs Offences,41
+2013,>30-40 yrs,Drug Offences,1500
+2013,>30-40 yrs,Immigration Offences,64
+2013,>30-40 yrs,Other Offences,59
+2013,>30-40 yrs,Property Crimes,321
+2013,>30-40 yrs,Traffic Offences,26
+2013,>40-50 yrs,Crimes Against Person,139
+2013,>40-50 yrs,Commercial Crimes,139
+2013,>40-50 yrs,Crimes Against Public Order,22
+2013,>40-50 yrs,Customs Offences,35
+2013,>40-50 yrs,Drug Offences,2431
+2013,>40-50 yrs,Immigration Offences,64
+2013,>40-50 yrs,Other Offences,52
+2013,>40-50 yrs,Property Crimes,350
+2013,>40-50 yrs,Traffic Offences,15
+2013,>50-60 yrs,Crimes Against Person,110
+2013,>50-60 yrs,Commercial Crimes,72
+2013,>50-60 yrs,Crimes Against Public Order,14
+2013,>50-60 yrs,Customs Offences,17
+2013,>50-60 yrs,Drug Offences,1698
+2013,>50-60 yrs,Immigration Offences,37
+2013,>50-60 yrs,Other Offences,23
+2013,>50-60 yrs,Property Crimes,192
+2013,>50-60 yrs,Traffic Offences,7
+2013,60 and above,Crimes Against Person,34
+2013,60 and above,Commercial Crimes,12
+2013,60 and above,Crimes Against Public Order,1
+2013,60 and above,Customs Offences,10
+2013,60 and above,Drug Offences,243
+2013,60 and above,Immigration Offences,8
+2013,60 and above,Other Offences,6
+2013,60 and above,Property Crimes,44
+2013,60 and above,Traffic Offences,1
+2014,Below 21,Crimes Against Person,30
+2014,Below 21,Commercial Crimes,45
+2014,Below 21,Crimes Against Public Order,43
+2014,Below 21,Customs Offences,7
+2014,Below 21,Drug Offences,27
+2014,Below 21,Immigration Offences,3
+2014,Below 21,Other Offences,11
+2014,Below 21,Property Crimes,91
+2014,Below 21,Traffic Offences,4
+2014,21-30 yrs,Crimes Against Person,154
+2014,21-30 yrs,Commercial Crimes,147
+2014,21-30 yrs,Crimes Against Public Order,73
+2014,21-30 yrs,Customs Offences,69
+2014,21-30 yrs,Drug Offences,581
+2014,21-30 yrs,Immigration Offences,39
+2014,21-30 yrs,Other Offences,117
+2014,21-30 yrs,Property Crimes,319
+2014,21-30 yrs,Traffic Offences,12
+2014,>30-40 yrs,Crimes Against Person,122
+2014,>30-40 yrs,Commercial Crimes,147
+2014,>30-40 yrs,Crimes Against Public Order,23
+2014,>30-40 yrs,Customs Offences,42
+2014,>30-40 yrs,Drug Offences,1395
+2014,>30-40 yrs,Immigration Offences,47
+2014,>30-40 yrs,Other Offences,71
+2014,>30-40 yrs,Property Crimes,285
+2014,>30-40 yrs,Traffic Offences,24
+2014,>40-50 yrs,Crimes Against Person,133
+2014,>40-50 yrs,Commercial Crimes,125
+2014,>40-50 yrs,Crimes Against Public Order,18
+2014,>40-50 yrs,Customs Offences,37
+2014,>40-50 yrs,Drug Offences,2371
+2014,>40-50 yrs,Immigration Offences,58
+2014,>40-50 yrs,Other Offences,48
+2014,>40-50 yrs,Property Crimes,313
+2014,>40-50 yrs,Traffic Offences,18
+2014,>50-60 yrs,Crimes Against Person,102
+2014,>50-60 yrs,Commercial Crimes,62
+2014,>50-60 yrs,Crimes Against Public Order,12
+2014,>50-60 yrs,Customs Offences,11
+2014,>50-60 yrs,Drug Offences,1845
+2014,>50-60 yrs,Immigration Offences,30
+2014,>50-60 yrs,Other Offences,27
+2014,>50-60 yrs,Property Crimes,187
+2014,>50-60 yrs,Traffic Offences,11
+2014,60 and above,Crimes Against Person,34
+2014,60 and above,Commercial Crimes,11
+2014,60 and above,Crimes Against Public Order,5
+2014,60 and above,Customs Offences,5
+2014,60 and above,Drug Offences,308
+2014,60 and above,Immigration Offences,7
+2014,60 and above,Other Offences,5
+2014,60 and above,Property Crimes,43
+2014,60 and above,Traffic Offences,0
+2015,Below 21,Crimes Against Person,31
+2015,Below 21,Commercial Crimes,40
+2015,Below 21,Crimes Against Public Order,29
+2015,Below 21,Customs Offences,5
+2015,Below 21,Drug Offences,37
+2015,Below 21,Immigration Offences,1
+2015,Below 21,Other Offences,15
+2015,Below 21,Property Crimes,86
+2015,Below 21,Traffic Offences,3
+2015,21-30 yrs,Crimes Against Person,150
+2015,21-30 yrs,Commercial Crimes,136
+2015,21-30 yrs,Crimes Against Public Order,45
+2015,21-30 yrs,Customs Offences,23
+2015,21-30 yrs,Drug Offences,680
+2015,21-30 yrs,Immigration Offences,26
+2015,21-30 yrs,Other Offences,122
+2015,21-30 yrs,Property Crimes,265
+2015,21-30 yrs,Traffic Offences,12
+2015,>30-40 yrs,Crimes Against Person,122
+2015,>30-40 yrs,Commercial Crimes,149
+2015,>30-40 yrs,Crimes Against Public Order,24
+2015,>30-40 yrs,Customs Offences,34
+2015,>30-40 yrs,Drug Offences,1348
+2015,>30-40 yrs,Immigration Offences,36
+2015,>30-40 yrs,Other Offences,64
+2015,>30-40 yrs,Property Crimes,266
+2015,>30-40 yrs,Traffic Offences,28
+2015,>40-50 yrs,Crimes Against Person,118
+2015,>40-50 yrs,Commercial Crimes,107
+2015,>40-50 yrs,Crimes Against Public Order,13
+2015,>40-50 yrs,Customs Offences,16
+2015,>40-50 yrs,Drug Offences,2345
+2015,>40-50 yrs,Immigration Offences,36
+2015,>40-50 yrs,Other Offences,69
+2015,>40-50 yrs,Property Crimes,272
+2015,>40-50 yrs,Traffic Offences,19
+2015,>50-60 yrs,Crimes Against Person,102
+2015,>50-60 yrs,Commercial Crimes,44
+2015,>50-60 yrs,Crimes Against Public Order,17
+2015,>50-60 yrs,Customs Offences,9
+2015,>50-60 yrs,Drug Offences,1885
+2015,>50-60 yrs,Immigration Offences,29
+2015,>50-60 yrs,Other Offences,34
+2015,>50-60 yrs,Property Crimes,191
+2015,>50-60 yrs,Traffic Offences,9
+2015,60 and above,Crimes Against Person,37
+2015,60 and above,Commercial Crimes,12
+2015,60 and above,Crimes Against Public Order,1
+2015,60 and above,Customs Offences,1
+2015,60 and above,Drug Offences,380
+2015,60 and above,Immigration Offences,6
+2015,60 and above,Other Offences,15
+2015,60 and above,Property Crimes,56
+2015,60 and above,Traffic Offences,2
+2016,Below 21,Crimes Against Person,44
+2016,Below 21,Commercial Crimes,37
+2016,Below 21,Crimes Against Public Order,29
+2016,Below 21,Customs Offences,3
+2016,Below 21,Drug Offences,59
+2016,Below 21,Immigration Offences,3
+2016,Below 21,Other Offences,6
+2016,Below 21,Property Crimes,95
+2016,Below 21,Traffic Offences,2
+2016,21-30 yrs,Crimes Against Person,168
+2016,21-30 yrs,Commercial Crimes,162
+2016,21-30 yrs,Crimes Against Public Order,56
+2016,21-30 yrs,Customs Offences,61
+2016,21-30 yrs,Drug Offences,767
+2016,21-30 yrs,Immigration Offences,19
+2016,21-30 yrs,Other Offences,73
+2016,21-30 yrs,Property Crimes,211
+2016,21-30 yrs,Traffic Offences,15
+2016,>30-40 yrs,Crimes Against Person,127
+2016,>30-40 yrs,Commercial Crimes,139
+2016,>30-40 yrs,Crimes Against Public Order,21
+2016,>30-40 yrs,Customs Offences,73
+2016,>30-40 yrs,Drug Offences,1294
+2016,>30-40 yrs,Immigration Offences,44
+2016,>30-40 yrs,Other Offences,39
+2016,>30-40 yrs,Property Crimes,212
+2016,>30-40 yrs,Traffic Offences,22
+2016,>40-50 yrs,Crimes Against Person,134
+2016,>40-50 yrs,Commercial Crimes,101
+2016,>40-50 yrs,Crimes Against Public Order,22
+2016,>40-50 yrs,Customs Offences,49
+2016,>40-50 yrs,Drug Offences,2223
+2016,>40-50 yrs,Immigration Offences,34
+2016,>40-50 yrs,Other Offences,25
+2016,>40-50 yrs,Property Crimes,265
+2016,>40-50 yrs,Traffic Offences,22
+2016,>50-60 yrs,Crimes Against Person,93
+2016,>50-60 yrs,Commercial Crimes,56
+2016,>50-60 yrs,Crimes Against Public Order,14
+2016,>50-60 yrs,Customs Offences,24
+2016,>50-60 yrs,Drug Offences,1865
+2016,>50-60 yrs,Immigration Offences,21
+2016,>50-60 yrs,Other Offences,13
+2016,>50-60 yrs,Property Crimes,169
+2016,>50-60 yrs,Traffic Offences,10
+2016,60 and above,Crimes Against Person,41
+2016,60 and above,Commercial Crimes,13
+2016,60 and above,Crimes Against Public Order,5
+2016,60 and above,Customs Offences,5
+2016,60 and above,Drug Offences,458
+2016,60 and above,Immigration Offences,2
+2016,60 and above,Other Offences,3
+2016,60 and above,Property Crimes,53
+2016,60 and above,Traffic Offences,1
+2017,Below 21,Crimes Against Person,30
+2017,Below 21,Commercial Crimes,33
+2017,Below 21,Crimes Against Public Order,28
+2017,Below 21,Customs Offences,2
+2017,Below 21,Drug Offences,59
+2017,Below 21,Immigration Offences,0
+2017,Below 21,Other Offences,6
+2017,Below 21,Property Crimes,67
+2017,Below 21,Traffic Offences,2
+2017,21-30 yrs,Crimes Against Person,182
+2017,21-30 yrs,Commercial Crimes,129
+2017,21-30 yrs,Crimes Against Public Order,45
+2017,21-30 yrs,Customs Offences,80
+2017,21-30 yrs,Drug Offences,735
+2017,21-30 yrs,Immigration Offences,13
+2017,21-30 yrs,Other Offences,60
+2017,21-30 yrs,Property Crimes,180
+2017,21-30 yrs,Traffic Offences,17
+2017,>30-40 yrs,Crimes Against Person,152
+2017,>30-40 yrs,Commercial Crimes,115
+2017,>30-40 yrs,Crimes Against Public Order,22
+2017,>30-40 yrs,Customs Offences,65
+2017,>30-40 yrs,Drug Offences,1191
+2017,>30-40 yrs,Immigration Offences,34
+2017,>30-40 yrs,Other Offences,34
+2017,>30-40 yrs,Property Crimes,222
+2017,>30-40 yrs,Traffic Offences,21
+2017,>40-50 yrs,Crimes Against Person,138
+2017,>40-50 yrs,Commercial Crimes,95
+2017,>40-50 yrs,Crimes Against Public Order,15
+2017,>40-50 yrs,Customs Offences,47
+2017,>40-50 yrs,Drug Offences,1949
+2017,>40-50 yrs,Immigration Offences,28
+2017,>40-50 yrs,Other Offences,19
+2017,>40-50 yrs,Property Crimes,251
+2017,>40-50 yrs,Traffic Offences,13
+2017,>50-60 yrs,Crimes Against Person,104
+2017,>50-60 yrs,Commercial Crimes,56
+2017,>50-60 yrs,Crimes Against Public Order,14
+2017,>50-60 yrs,Customs Offences,21
+2017,>50-60 yrs,Drug Offences,1722
+2017,>50-60 yrs,Immigration Offences,22
+2017,>50-60 yrs,Other Offences,9
+2017,>50-60 yrs,Property Crimes,176
+2017,>50-60 yrs,Traffic Offences,9
+2017,60 and above,Crimes Against Person,49
+2017,60 and above,Commercial Crimes,12
+2017,60 and above,Crimes Against Public Order,2
+2017,60 and above,Customs Offences,11
+2017,60 and above,Drug Offences,522
+2017,60 and above,Immigration Offences,5
+2017,60 and above,Other Offences,2
+2017,60 and above,Property Crimes,70
+2017,60 and above,Traffic Offences,0
+2018,Below 21,Crimes Against Person,21
+2018,Below 21,Commercial Crimes,28
+2018,Below 21,Crimes Against Public Order,29
+2018,Below 21,Customs Offences,1
+2018,Below 21,Drug Offences,60
+2018,Below 21,Immigration Offences,1
+2018,Below 21,Other Offences,6
+2018,Below 21,Property Crimes,85
+2018,Below 21,Traffic Offences,4
+2018,21-30 yrs,Crimes Against Person,191
+2018,21-30 yrs,Commercial Crimes,129
+2018,21-30 yrs,Crimes Against Public Order,49
+2018,21-30 yrs,Customs Offences,65
+2018,21-30 yrs,Drug Offences,764
+2018,21-30 yrs,Immigration Offences,8
+2018,21-30 yrs,Other Offences,61
+2018,21-30 yrs,Property Crimes,187
+2018,21-30 yrs,Traffic Offences,12
+2018,>30-40 yrs,Crimes Against Person,159
+2018,>30-40 yrs,Commercial Crimes,121
+2018,>30-40 yrs,Crimes Against Public Order,33
+2018,>30-40 yrs,Customs Offences,80
+2018,>30-40 yrs,Drug Offences,1179
+2018,>30-40 yrs,Immigration Offences,19
+2018,>30-40 yrs,Other Offences,31
+2018,>30-40 yrs,Property Crimes,220
+2018,>30-40 yrs,Traffic Offences,14
+2018,>40-50 yrs,Crimes Against Person,144
+2018,>40-50 yrs,Commercial Crimes,94
+2018,>40-50 yrs,Crimes Against Public Order,24
+2018,>40-50 yrs,Customs Offences,41
+2018,>40-50 yrs,Drug Offences,1799
+2018,>40-50 yrs,Immigration Offences,22
+2018,>40-50 yrs,Other Offences,18
+2018,>40-50 yrs,Property Crimes,226
+2018,>40-50 yrs,Traffic Offences,17
+2018,>50-60 yrs,Crimes Against Person,127
+2018,>50-60 yrs,Commercial Crimes,52
+2018,>50-60 yrs,Crimes Against Public Order,9
+2018,>50-60 yrs,Customs Offences,22
+2018,>50-60 yrs,Drug Offences,1634
+2018,>50-60 yrs,Immigration Offences,13
+2018,>50-60 yrs,Other Offences,18
+2018,>50-60 yrs,Property Crimes,176
+2018,>50-60 yrs,Traffic Offences,7
+2018,60 and above,Crimes Against Person,63
+2018,60 and above,Commercial Crimes,23
+2018,60 and above,Crimes Against Public Order,5
+2018,60 and above,Customs Offences,11
+2018,60 and above,Drug Offences,594
+2018,60 and above,Immigration Offences,1
+2018,60 and above,Other Offences,4
+2018,60 and above,Property Crimes,76
+2018,60 and above,Traffic Offences,4
+2019,Below 21,Crimes Against Person,33
+2019,Below 21,Commercial Crimes,30
+2019,Below 21,Crimes Against Public Order,36
+2019,Below 21,Customs Offences,2
+2019,Below 21,Drug Offences,61
+2019,Below 21,Immigration Offences,0
+2019,Below 21,Other Offences,2
+2019,Below 21,Property Crimes,81
+2019,Below 21,Traffic Offences,3
+2019,21-30 yrs,Crimes Against Person,171
+2019,21-30 yrs,Commercial Crimes,124
+2019,21-30 yrs,Crimes Against Public Order,44
+2019,21-30 yrs,Customs Offences,84
+2019,21-30 yrs,Drug Offences,685
+2019,21-30 yrs,Immigration Offences,11
+2019,21-30 yrs,Other Offences,52
+2019,21-30 yrs,Property Crimes,170
+2019,21-30 yrs,Traffic Offences,6
+2019,>30-40 yrs,Crimes Against Person,175
+2019,>30-40 yrs,Commercial Crimes,122
+2019,>30-40 yrs,Crimes Against Public Order,18
+2019,>30-40 yrs,Customs Offences,84
+2019,>30-40 yrs,Drug Offences,1094
+2019,>30-40 yrs,Immigration Offences,17
+2019,>30-40 yrs,Other Offences,38
+2019,>30-40 yrs,Property Crimes,190
+2019,>30-40 yrs,Traffic Offences,16
+2019,>40-50 yrs,Crimes Against Person,125
+2019,>40-50 yrs,Commercial Crimes,98
+2019,>40-50 yrs,Crimes Against Public Order,21
+2019,>40-50 yrs,Customs Offences,66
+2019,>40-50 yrs,Drug Offences,1506
+2019,>40-50 yrs,Immigration Offences,14
+2019,>40-50 yrs,Other Offences,16
+2019,>40-50 yrs,Property Crimes,185
+2019,>40-50 yrs,Traffic Offences,9
+2019,>50-60 yrs,Crimes Against Person,136
+2019,>50-60 yrs,Commercial Crimes,57
+2019,>50-60 yrs,Crimes Against Public Order,17
+2019,>50-60 yrs,Customs Offences,28
+2019,>50-60 yrs,Drug Offences,1482
+2019,>50-60 yrs,Immigration Offences,12
+2019,>50-60 yrs,Other Offences,18
+2019,>50-60 yrs,Property Crimes,161
+2019,>50-60 yrs,Traffic Offences,3
+2019,60 and above,Crimes Against Person,61
+2019,60 and above,Commercial Crimes,17
+2019,60 and above,Crimes Against Public Order,10
+2019,60 and above,Customs Offences,7
+2019,60 and above,Drug Offences,592
+2019,60 and above,Immigration Offences,5
+2019,60 and above,Other Offences,4
+2019,60 and above,Property Crimes,75
+2019,60 and above,Traffic Offences,4
+2020,Below 21,Crimes Against Person,45
+2020,Below 21,Commercial Crimes,22
+2020,Below 21,Crimes Against Public Order,26
+2020,Below 21,Customs Offences,1
+2020,Below 21,Drug Offences,73
+2020,Below 21,Immigration Offences,0
+2020,Below 21,Other Offences,8
+2020,Below 21,Property Crimes,85
+2020,Below 21,Traffic Offences,3
+2020,21-30 yrs,Crimes Against Person,160
+2020,21-30 yrs,Commercial Crimes,107
+2020,21-30 yrs,Crimes Against Public Order,61
+2020,21-30 yrs,Customs Offences,53
+2020,21-30 yrs,Drug Offences,653
+2020,21-30 yrs,Immigration Offences,1
+2020,21-30 yrs,Other Offences,32
+2020,21-30 yrs,Property Crimes,133
+2020,21-30 yrs,Traffic Offences,15
+2020,>30-40 yrs,Crimes Against Person,158
+2020,>30-40 yrs,Commercial Crimes,96
+2020,>30-40 yrs,Crimes Against Public Order,19
+2020,>30-40 yrs,Customs Offences,67
+2020,>30-40 yrs,Drug Offences,976
+2020,>30-40 yrs,Immigration Offences,4
+2020,>30-40 yrs,Other Offences,38
+2020,>30-40 yrs,Property Crimes,135
+2020,>30-40 yrs,Traffic Offences,14
+2020,>40-50 yrs,Crimes Against Person,138
+2020,>40-50 yrs,Commercial Crimes,75
+2020,>40-50 yrs,Crimes Against Public Order,14
+2020,>40-50 yrs,Customs Offences,36
+2020,>40-50 yrs,Drug Offences,1201
+2020,>40-50 yrs,Immigration Offences,10
+2020,>40-50 yrs,Other Offences,14
+2020,>40-50 yrs,Property Crimes,152
+2020,>40-50 yrs,Traffic Offences,11
+2020,>50-60 yrs,Crimes Against Person,128
+2020,>50-60 yrs,Commercial Crimes,44
+2020,>50-60 yrs,Crimes Against Public Order,9
+2020,>50-60 yrs,Customs Offences,21
+2020,>50-60 yrs,Drug Offences,1220
+2020,>50-60 yrs,Immigration Offences,6
+2020,>50-60 yrs,Other Offences,15
+2020,>50-60 yrs,Property Crimes,132
+2020,>50-60 yrs,Traffic Offences,6
+2020,60 and above,Crimes Against Person,63
+2020,60 and above,Commercial Crimes,26
+2020,60 and above,Crimes Against Public Order,9
+2020,60 and above,Customs Offences,8
+2020,60 and above,Drug Offences,523
+2020,60 and above,Immigration Offences,2
+2020,60 and above,Other Offences,8
+2020,60 and above,Property Crimes,75
+2020,60 and above,Traffic Offences,3
