@@ -8,6 +8,15 @@ Description:
 The penal population in Singapore refers to the number of individuals incarcerated in prisons and other correctional facilities in the country. Here is an overview of the history of the penal population in Singapore from 2012 to 2020:
 
 In 2012, the total penal population in Singapore was 13,328, with a incarceration rate of 236 per 100,000 population.
+20 yrs below age group has the highest offence in property due to the following reasons:
+Peer pressure: Young people may be influenced by their peers to engage in criminal activities, including property offenses, as a means to gain acceptance or prove themselves to others.
+Lack of supervision: Some youth may not have adequate supervision or positive role models in their lives, leading them to engage in delinquent behavior.
+
+Financial pressure: Youth may resort to property offenses, such as theft or housebreaking, to obtain money to meet their financial needs.
+
+Influence of media: The glorification of criminal behavior in media, such as movies or music, may normalize such behavior and encourage young people to engage in similar activities.
+
+Lack of alternative opportunities: Youth who may not have access to education, employment, or other positive opportunities may resort to property offenses as a means of survival or to achieve their goals.
 
 In 2013, the total penal population increased to 13,539, with a incarceration rate of 240 per 100,000 population.
 
